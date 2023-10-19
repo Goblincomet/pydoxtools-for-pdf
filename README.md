@@ -11,14 +11,14 @@ keywords: [ pydoxtools, AI, AI-Composition, ETL, pipelines, knowledge graphs ]
 ![Python](https://img.shields.io/pypi/pyversions/pydoxtools.svg)
 [![PyPI version](https://img.shields.io/pypi/v/pydoxtools.svg)](https://pypi.python.org/pypi/pydoxtools)
 [![Mkdocs](https://img.shields.io/badge/doc-mkdocs-845ed7.svg)](https://pydoxtools.xyntopia.com)
-[![GitHub discussions](https://img.shields.io/badge/discuss-online-845ef7)](https://github.com/xyntopia/pydoxtools/discussions)
-[![GitHub stars](https://img.shields.io/github/stars/xyntopia/pydoxtools)](https://github.com/xyntopia/pydoxtools/stargazers)
+[![GitHub discussions](https://img.shields.io/badge/discuss-online-845ef7)](https://github.com/Goblincomet/pydoxtools-for-pdf/discussions)
+[![GitHub stars](https://img.shields.io/github/stars/xyntopia/pydoxtools)](https://github.com/Goblincomet/pydoxtools-for-pdf/stargazers)
 
 ***
 
 [Documentation](https://pydoxtools.xyntopia.com)
 
-*If you have any problems or questions, please create a github [issue](https://github.com/Xyntopia/pydoxtools/issues). So that other poeple who might want to use it can see the potential solution!*
+*If you have any problems or questions, please create a github [issue](https://github.com/Goblincomet/pydoxtools-for-pdf/issues). So that other poeple who might want to use it can see the potential solution!*
 
 ## Summary
 
@@ -49,7 +49,7 @@ While pydoxtools can already be installed through pip, due to the
 many updates coming in right now, it is currently recommended to use
 the latest version from GitHub as follows:
 
-    pip install -U "pydoxtools[etl,inference] @ git+https://github.com/xyntopia/pydoxtools.git"
+    pip install -U "pydoxtools[etl,inference] @ git+https://github.com/Goblincomet/pydoxtools-for-pdf.git"
 
 ### Installing from PyPI
 
